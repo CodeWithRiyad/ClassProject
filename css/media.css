@@ -152,6 +152,7 @@ padding-bottom: 20px;
     font-size: 18px;
     line-height: 32px;
     padding-bottom: 21px;
+    padding-right: 152px;
 }
 .chance-left .button {
     padding: 8px 16px;
@@ -159,6 +160,7 @@ padding-bottom: 20px;
 #chance .bean {
     bottom: 0;
     opacity: 0.8;
+    width: 27rem;
 }
 #feedback .common-head {
     line-height: 55px;
@@ -1015,5 +1017,6 @@ footer {
 }
 
 }
+
 
 
